@@ -1,2 +1,4 @@
 name: meet patel
 dob: 2 nov 1999
+
+education: Master's in Computer Science
